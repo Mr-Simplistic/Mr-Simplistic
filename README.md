@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there👋, I'm Fitsum
 
-<!--
-**Mr-Simplistic/Mr-Simplistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Frontend Developer and Computer Science student at Addis Ababa University, graduating in 2025. I love creating visually appealing and highly functional web applications. Currently, I'm honing my skills in frontend technologies and building a solid foundation for full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **advanced JavaScript and modern frontend frameworks**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, and Responsive Design**
+- 📫 How to reach me: [fitsumsisay101.com](mailto:fitsumsisay101.com)
+- ⚡ Fun fact: I’ve learned to channel my ADHD into productive bursts of creativity and innovation.
+## Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Responsive Design
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Figma
+
+## Education
+
+- **Computer Science Student**
+- Addis Ababa University
+- Year of Graduation: 2025
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/fitsum-sisay101/)
+- [Twitter](https://x.com/fitz_um?t=-5TWrgiYq_-0WB1U4ivodQ&s=09)
